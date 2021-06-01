@@ -1,1 +1,1 @@
-# Processing-Signal-Images-to-Detect-Signals-in-Specific-Color-and-Locating-Required-Co-ordinates-of-t
+# Processing Signal Images to Detect Signals in Specific Color and Locating Required Co-ordinates
